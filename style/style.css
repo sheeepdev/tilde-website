@@ -1,0 +1,55 @@
+div#tildes {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    word-break: break-all;
+    background-color: #161616;
+    color: #3281ea;
+    z-index: -1;
+    font-size: 120%;
+    letter-spacing: .75em;
+  }
+
+  section#header {
+    margin-top: 5%;
+    text-align: center;
+    font-size: 150%;
+    margin-right: 2%;
+    margin-left: 1%;
+  }
+  section {
+    font-family: monospace;
+    background-color: #161616;
+    color: #3281ea;
+  }
+
+  section#summary p {
+    font-size: 150%;
+  }
+
+  td#info p {
+    margin-left: 250px;
+  }
+
+  section#blog {
+    margin-left: max((100% - 60ch) * .2, 0ch);
+    max-width: 40ch;
+  }
+
+  #boxes section {
+    padding: 0 2ch;
+    margin-top: 2em;
+    border: 1px solid #e0b0ff30;
+  }
+
+  section#no-steal {
+    margin-left: auto;
+    margin-right: max((100% - 38ch) * .25, 0ch);
+    max-width: 30ch;
+  }
+
+  section#ascii {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 38ch;
+  }
