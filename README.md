@@ -1,6 +1,14 @@
-~ hi ~
-
-note (4th july 2022): website is not up on tilde.cafe, waiting for signup approval
+```
+            _                     _       _   _ _     _                     _         _ _       
+            | |                   ( )     | | (_) |   | |                   | |       (_) |      
+         ___| |__   ___  ___ _ __ |/ ___  | |_ _| | __| | ___  __      _____| |__  ___ _| |_ ___ 
+        / __| '_ \ / _ \/ _ \ '_ \  / __| | __| | |/ _` |/ _ \ \ \ /\ / / _ \ '_ \/ __| | __/ _ \
+        \__ \ | | |  __/  __/ |_) | \__ \ | |_| | | (_| |  __/  \ V  V /  __/ |_) \__ \ | ||  __/
+        |___/_| |_|\___|\___| .__/  |___/  \__|_|_|\__,_|\___|   \_/\_/ \___|_.__/|___/_|\__\___|
+                            | |                                                                  
+                            |_|                                                                  
+        
+```
 
 it looks like your reached the source code repository for my tildeverse website!
 have a look around... nothing much too see
