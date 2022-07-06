@@ -1,10 +1,25 @@
+:root {
+  --inner-core: #161616;
+  --outer-core: #202020;
+  --mantle: #252525; 
+  --crust: #303030;
+  --tropo: #3281ea;
+  --strato: #0284e8;
+  --meso: #02a3e8;
+  --thermo: #02bbe8;
+  --text: #f3f3f3;
+  --white: #d4d7db;
+  --aurora: #05844A;
+  --magma: #B10C0C;
+}
+
 div#tildes {
     position: absolute;
     top: 0px;
     left: 0px;
     word-break: break-all;
-    background-color: #161616;
-    color: #3281ea;
+    background-color: var(--inner-core);
+    color: var(--tropo);
     z-index: -1;
     font-size: 120%;
     letter-spacing: .75em;
@@ -19,8 +34,8 @@ div#tildes {
   }
   section {
     font-family: monospace;
-    background-color: #161616;
-    color: #3281ea;
+    background-color: var(--inner-core);
+    color: var(--tropo);
   }
 
   section#summary p {
@@ -53,3 +68,9 @@ div#tildes {
     margin-right: auto;
     max-width: 38ch;
   }
+
+  a:visited {
+    color: var(--tropo);
+  }
+
+/* todo - mobile responsiveness */
