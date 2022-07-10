@@ -92,4 +92,15 @@ div#tildes {
     max-width: 50ch;
   }
 
+  section#qr {
+    text-align: right;
+    margin: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-top: 40em;
+    text-align: center;
+    max-width: 4ch;
+    margin-right: max((100% - 10ch) * .2, 0ch);
+  }
+
 /* todo - mobile responsiveness */
